@@ -360,6 +360,10 @@ hr{
     color: #A2A2A2;
 }
 
+.back-button{
+    margin-left: 30rem;
+}
+
 @media screen and (max-width: 500px){
 .nav{
     display: none;
@@ -368,17 +372,24 @@ hr{
     display: flex;
     flex-direction: column;
 }
+#bollywood-image{
+    margin-right: 10px;
+}
+.back-button{
+    margin-left: 4rem;
+    font-size: 59px;
+}
 .mobile-menu-icon{
     display: block;
     font-size: 150px;
     position: absolute;
     top: 120px;
-    left: 1300px;
+    left: 1274px;
     border: none;
     background-color: white;
 }
 .links{
-    width: 1600px;
+    width: 1433px;
     font-size: 100px;
     border-bottom: 2px solid black;
     padding: 20px;
@@ -387,7 +398,7 @@ hr{
     display: none;
 }
 .main-header{
-    width: 1570px;
+    width: 1420px;
     display: flex;
     padding: 50px 0px;
 }
@@ -409,8 +420,8 @@ hr{
     margin-left: 40px;
 }
 .latest1,.latest2,.latest3,.latest4,.latest5,.latest6{
-    padding: 70px;
-    width: 1500px;
+    padding: 11px;
+    width: 1314px;
     height: 2150px;
     background-color: #FCFCFC;
     margin-bottom: 70px;
@@ -430,11 +441,11 @@ hr{
     justify-content: space-evenly;
 }
 .data1,.data2,.data3,.data4,.data5,.data6,.data7,.data8,.data9,.data10,.data11,.data12{
-    width: 1500px;
+    width: 1373px;
     font-size: 50px;
 }
 .data1 img,.data2 img,.data3 img,.data4 img,.data5 img,.data6 img,.data7 img,.data8 img,.data9 img,.data10 img,.data11 img,.data12 img{
-    width: 700px;
+    width: 637px;
     height: 500px;
 }
 .data-description{
@@ -464,27 +475,28 @@ hr{
 .load-more{
     width: 1300px;
     text-align: left;
-    margin-left: 140px;
+    margin-left: 11px;
     font-size: 70px;
     margin-bottom: 100px;
 }
 .home-image-container{
-    width: 1570px;
+    width: 1291px;
     height: 2000px;
     display: flex;
     flex-direction: column;
-    margin: auto;
+    margin: 132px;
     margin-bottom: 30px;
     margin-top: 100px;
 }
 #bollywood-image img,#tech-image img,#hollywood-image img{
-    width: 1100px;
+    width: 1260px;
     height: 630px;
     border-radius: 20px;
     margin-bottom: 30px;
+    margin-left: -132px;
 }
 .latest-stories{
-    width: 1500px;
+    width: 1264px;
     font-size: 80px;
 }
 .hr-under2{
@@ -498,7 +510,7 @@ hr{
     font-size: 70px;
 }
 .top-stories{
-    width: 1500px;
+    width: 1234px;
     font-size: 80px;
     margin-bottom: 50px;
 }
@@ -508,7 +520,7 @@ hr{
     margin-left: 30px;
 }
 .top-posts{
-    width: 1500px;
+    width: 1356px;
 }
 .error{
     font-size: 180px;
@@ -534,7 +546,7 @@ hr{
     display: none;
 }
 .detail-header{
-    width: 1570px;
+    width: 1422px;
     height: 350px;
     display: flex;
     align-items: center;
@@ -555,8 +567,8 @@ hr{
     margin-left: 90px;
 }
 .detail-content-img{
-    height: 1200px;
-    width: 1400px;
+    height: 994px;
+    width: 1316px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -569,7 +581,7 @@ hr{
     text-align: left;
 }
 .detail-title{
-    width: 1400px;
+    width: 1334px;
     margin: auto;
     margin-top: 90px;
     font-size: 60px;
@@ -581,14 +593,14 @@ hr{
     margin-left: 0px;
 }
 .person{
-    width: 1400px;
+    width: 1276px;
     display: flex;
     align-items: center;
     margin-top: 50px;
     margin-bottom: 50px;
 }
 .person-2{
-    width: 1400px;
+    width: 1204px;
     margin-left: 150px;
 }
 .written{
@@ -611,13 +623,13 @@ hr{
 }
 .logos{
     font-size: 90px;
-    margin-left: 150px;
+    margin-left: 48px;
 }
 .like-share{
     display: none;
 }
 .down-like{
-    width: 1400px;
+    width: 1237px;
     font-size: 100px;
     margin-left: 100px;
     display: flex;
@@ -632,9 +644,9 @@ hr{
     margin-left: 180px;
 }
 .footer{
-    width: 1600px;
-    height: 2900px;
-    margin-top: 150px;
+    width: 1372px;
+    height: 2503px;
+    margin-top: 528px;
     background-color: #FAFAFA;
     text-align: left;
     padding: 10px;
@@ -659,9 +671,9 @@ hr{
     margin-left: 60px;
 }
 .more1-data,.more2-data,.more3-data{
-    width: 1500px;
+    width: 1319px;
     display: flex;
-    font-size: 80px;
+    font-size: 64px;
 }
 .more-avatar{
     display: none;

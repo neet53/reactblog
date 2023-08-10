@@ -87,8 +87,9 @@ const DetailDescription = () => {
     </div>
     </div>
     ))
-    }
+  }
     <hr className='detail-hr'></hr>
+    <Link to={'/'} className='link'><h4 className="back-button">Go Back</h4></Link>
     <div className='footer'>
     <h2>More from The Siren</h2>
     <hr className='footer-hr'></hr>
